@@ -1,7 +1,9 @@
-# BoxCrittersPixelated
+# Box Critters Pixelated
 A Pixelated Texture Pack for Box Critters
 
 ------------------------------------------------------------------------------------------------------------------------------
+
+
 
 Step 1: Make sure https://chrome.google.com/webstore/detail/okfakaikglajegjgjnaamcigadmfccmg is downloaded
 
